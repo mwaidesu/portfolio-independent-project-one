@@ -17,6 +17,10 @@
   background-color: #0c4271 !important;
 }
 
+.colorChange{
+  color: white;
+}
+
 .float-right{
   float: right;
   width: 40%;
