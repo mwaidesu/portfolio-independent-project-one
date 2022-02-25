@@ -1,6 +1,8 @@
 *{
   box-sizing: border-box;
 }
+
+
 .navbar{
   background-color: black;
   padding: 30px;
@@ -20,12 +22,18 @@
 .colorChange{
   color: white;
 }
+.section-one{
+ font-size: 30px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ height: 80vh;
+}
 
 .float-right{
   float: right;
   width: 40%;
   height: auto;
 }
+
 
 .project-one, .project-two, .project-three, .project-four{
   display:inline-block;
