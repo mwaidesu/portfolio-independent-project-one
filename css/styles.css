@@ -3,3 +3,12 @@
   width: 40%;
   height: auto;
 }
+
+.project-one, .project-two, .project-three, .project-four{
+  display:flex;
+}
+
+.screenshot{
+  width: 25%;
+  float: left;
+}
