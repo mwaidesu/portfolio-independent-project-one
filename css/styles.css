@@ -1,3 +1,8 @@
+*{
+  box-sizing: border-box;
+}
+
+
 .float-right{
   float: right;
   width: 40%;
@@ -5,7 +10,7 @@
 }
 
 .project-one, .project-two, .project-three, .project-four{
-  display:flex;
+  display:inline-block;
 }
 
 .screenshot{
