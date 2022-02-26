@@ -61,6 +61,13 @@
   color: white;
 }
 
+.project-list a:hover{
+  background-color: #F9DFDC;
+  padding: 5px;
+  border-radius: 3px;
+  color: black;
+}
+
 
 
 .project-one, .project-two, .project-three, .project-four{
