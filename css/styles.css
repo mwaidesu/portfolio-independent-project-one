@@ -73,3 +73,9 @@ text-decoration: underline;
 .container-fluid{
 background-color: #0c4271;
 }
+
+.page-footer{
+  border-radius: none;
+  background-color: black;
+  padding: 30px;
+}
