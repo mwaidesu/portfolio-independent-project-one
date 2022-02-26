@@ -45,6 +45,13 @@
   color: black;
 }
 
+.project-list h2{
+  color: white;
+  text-decoration: underline;
+  text-transform: capitalize;
+
+}
+
 .project-list a{
   color: white;
 }
@@ -75,6 +82,7 @@ color: white;
 font-size: 35px;
 color: white !important;
 text-decoration: underline;
+text-transform: capitalize;
 }
 
 .container-fluid{
