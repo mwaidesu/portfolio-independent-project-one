@@ -1,6 +1,10 @@
 *{
   box-sizing: border-box;
 }
+
+body{
+  color:#F9DFDC
+}
 .navbar{
   background-color: black;
   padding: 30px;
