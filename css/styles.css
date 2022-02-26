@@ -11,6 +11,11 @@
   color: white;
   padding: 30px;
   font-size: 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover{
+  background-color: aqua;
 }
 
 .jumbotron{
@@ -68,6 +73,11 @@
   width: 25%;
   float: left;
 }
+.screenshot:hover{
+  border: 5px solid purple;
+  transform: scale(2);
+  
+  }
 
 .container-fluid{
   padding: 20px;
