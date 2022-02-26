@@ -55,3 +55,21 @@
   float: left;
 }
 
+/* .container-fluid{
+  padding: 20px;
+} */
+.container-fluid p, li{
+font-size: 22px;
+padding: 5px;
+color: white;
+}
+
+.container-fluid h2, h3{
+font-size: 35px;
+color: white !important;
+text-decoration: underline;
+}
+
+.container-fluid{
+background-color: #0c4271;
+}
