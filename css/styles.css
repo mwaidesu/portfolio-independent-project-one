@@ -1,116 +1,116 @@
-*{
+* {
   box-sizing: border-box;
 }
 
-body{
-  color:#F9DFDC
+body {
+  color: #f9dfdc;
 }
-.navbar{
+.navbar {
   background-color: black;
   padding: 30px;
   border-radius: none;
 }
 
-.navbar a{
+.navbar a {
   color: white;
   padding: 30px;
   font-size: 20px;
   text-decoration: none;
 }
 
-.navbar a:hover{
+.navbar a:hover {
   background-color: aqua;
 }
 
-.jumbotron{
+.jumbotron {
   background-color: #0c4271 !important;
   padding: 30px;
 }
 
-.colorChange{
+.colorChange {
   color: white;
 }
-.section-one{
- font-size: 30px;
- font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
- height: 80vh;
- padding: 30px;
+.section-one {
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  height: 80vh;
+  padding: 30px;
 }
 
-.float-right{
+.float-right {
   float: right;
   width: 40%;
   height: auto;
 }
-.project-list{
+.project-list {
   padding: 10px;
   font-size: large;
   background-color: rgb(10, 129, 171);
-  
 }
 
-.project-list p{
+.project-list p {
   padding: 50px;
   color: black;
 }
 
-.project-list h2{
+.project-list h2 {
   color: white;
   text-decoration: underline;
   text-transform: capitalize;
-
 }
 
-.project-list a{
+.project-list a {
   color: white;
 }
 
-.project-list a:hover{
-  background-color: #F9DFDC;
+.project-list a:hover {
+  background-color: #f9dfdc;
   padding: 5px;
   border-radius: 3px;
   color: black;
 }
 
-
-
-.project-one, .project-two, .project-three, .project-four{
-  display:inline-flex;
+.project-one,
+.project-two,
+.project-three,
+.project-four {
+  display: inline-flex;
   padding: 15px;
   margin: 15px;
 }
 
-.screenshot{
+.screenshot {
   width: 25%;
   float: left;
 }
-.screenshot:hover{
+.screenshot:hover {
   border: 5px solid purple;
   transform: scale(2);
-  
-  }
+}
 
-.container-fluid{
+.container-fluid {
   padding: 20px;
 }
-.container-fluid p, li{
-font-size: 22px;
-padding: 5px;
-color: white;
+.container-fluid p,
+li {
+  font-size: 22px;
+  padding: 5px;
+  color: white;
 }
 
-.container-fluid h2, h3{
-font-size: 35px;
-color: white !important;
-text-decoration: underline;
-text-transform: capitalize;
+.container-fluid h2,
+h3 {
+  font-size: 35px;
+  color: white !important;
+  text-decoration: underline;
+  text-transform: capitalize;
 }
 
-.container-fluid{
-background-color: #0c4271;
+.container-fluid {
+  background-color: #0c4271;
 }
 
-.page-footer{
+.page-footer {
   border-radius: none;
   background-color: black;
   padding: 30px;
