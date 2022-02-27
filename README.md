@@ -37,7 +37,7 @@ To fix a bug or enhance an existing module, follow these steps:
 No known bugs as of yet, but if you come across one feel free to contact me about it.
 
 
-##### Link to Live Site : []()
+##### Link to Live Site : [https://mwaidesu.github.io/portfolio-independent-project-one/](https://mwaidesu.github.io/portfolio-independent-project-one/)
 
 ### License
 
