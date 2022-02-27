@@ -2,8 +2,6 @@
 
 A web page that showcases the skills, projects, interests and hobbies of the creator, Erick Mwai. The webpage has an introductory segment, where you meet the creator of the webpage and a projects segments, where you can see a list of projects he has made, and an "About Me" section where you learn of his interests and hobbies. 
 
-{image link of webpage}
-
 ## Technologies Used
 
 - HTML
