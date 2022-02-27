@@ -36,6 +36,12 @@ body {
   height: 80vh;
   padding: 30px;
 }
+.cat-link:hover {
+  background-color: #f9dfdc;
+  padding: 5px;
+  border-radius: 3px;
+  color: black;
+}
 
 .float-right {
   float: right;
