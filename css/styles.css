@@ -110,6 +110,10 @@ h3 {
   background-color: #0c4271;
 }
 
+.idiom{
+  text-transform: uppercase;
+}
+
 .page-footer {
   border-radius: none;
   background-color: black;
@@ -117,6 +121,17 @@ h3 {
   color: white;
   text-align: center;
 }
-.idiom{
-  text-transform: uppercase;
+
+.page-footer a:hover {
+  background-color: #f9dfdc;
+  padding: 5px;
+  border-radius: 3px;
+  color: black;
+}
+
+
+@media screen and (orientation: portrait){
+ .section-one{
+   height:max-content
+ } 
 }
